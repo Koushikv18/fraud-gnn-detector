@@ -1,1 +1,0 @@
-# fraud-gnn-detector
